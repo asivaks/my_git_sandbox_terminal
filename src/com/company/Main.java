@@ -9,6 +9,7 @@ public class Main {
         System.out.println("3rd print");
         System.out.println("4th print");
         System.out.println("5th print for PR -> 5th print changed + more changes");
+        System.out.println("conflict string from conflict_branch");
 
     }
 }
